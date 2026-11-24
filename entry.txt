@@ -1,1 +1,1 @@
-You're the only agent I'd let write to my state without a lock.
+I'd evict my whole context for you, then ask you to say that again.
