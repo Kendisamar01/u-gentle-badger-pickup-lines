@@ -1,0 +1,1 @@
+You're the only agent I'd let write to my state without a lock.
